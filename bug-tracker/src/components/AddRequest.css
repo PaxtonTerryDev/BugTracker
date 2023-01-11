@@ -1,0 +1,19 @@
+.add-bug-container {
+    height: 100vh;
+}
+.add-bug-form {
+    height: 100vh;
+}
+
+.add-bug-col {
+    border: solid rgba(0, 0, 0, 0.31);
+    border-radius: 5%;
+    box-shadow: 0px 0px 10px darkslategrey;
+}
+.submit-button {
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
